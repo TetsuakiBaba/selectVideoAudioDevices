@@ -8,5 +8,6 @@ $ npm init
 $ npm install express
 $ node server.js
 ```
-Then check http://localhost:80 on Chrome browser.
+Then check http://localhost:80 on Chrome browser and open javascript console to see what device you selected.
+
 ![](./sample.png)
